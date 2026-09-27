@@ -34,9 +34,9 @@ The project starts with individual game studios. Once they are ready, they will 
 
 | Game | Studio | Status |
 |------|--------|--------|
-| Grand Theft Auto Advance | GTA Advance Studio | 🚧 In development |
-| Driv3r (GBA) | Driv3r Advance Studio | 🚧 In development |
-| More Velez & Dubail titles | — | 📋 Planned |
+| Grand Theft Auto Advance | GTA Advance Studio 
+| Driv3r (GBA) | Driv3r Advance Studio 
+| Asterix & Obelix XXL | AsterixXXL Advance Studio 
 
 ## Getting Started
 
