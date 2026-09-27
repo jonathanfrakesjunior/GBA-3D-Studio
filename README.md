@@ -16,11 +16,12 @@ The project starts with individual game studios. Once they are ready, they will 
 
 | Phase | Goal | Status |
 |-------|------|--------|
-| 1 | **GTA Advance Studio** | 🚧 In development |
-| 1 | **Driv3r Advance Studio** | 🚧 In development |
-| 2 | A Studio for every released GBA game by the **Velez & Dubail Dev. Team** | 📋 Planned |
-| 3 | **GBA-3D-Studio**: all studios combined in one tool | 📋 Planned |
-| 4 | Support for additional 3D GBA games | 💡 Future |
+| 1 | **GTA Advance Studio** | ☀️ Ready - Streamlining Process |
+| 2 | **Driv3r Advance Studio** | ☀️ Ready - Streamlining Process |
+| 3 | **Asterix XXL Advance Studio** | ☀️ Ready - Streamlining Process |
+| 4 | A Studio for every released GBA game by the **Velez & Dubail Dev. Team** | 🚧 In development |
+| 5 | **GBA-3D-Studio**: all studios combined in one tool | 📋 Planned |
+| 6 | Support for additional 3D GBA games | 💡 Future |
 
 ## Goals
 
