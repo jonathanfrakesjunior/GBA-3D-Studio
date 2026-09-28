@@ -30,16 +30,6 @@ The project starts with individual game studios. Once they are ready, they will 
 - **Multi-game.** One workflow across all supported 3D GBA games.
 - **Community-focused.** Built for romhackers and modders, and open to feedback.
 
-## Supported Games
-
-| Game | Studio | 
-|------|--------|--------|
-| Grand Theft Auto Advance | GTA Advance Studio 
-| Driv3r (GBA) | Driv3r Advance Studio 
-| Asterix & Obelix XXL | AsterixXXL Advance Studio 
-| Stuntman | Stuntman Advance Studio 
-| V-Rally 3| V-Rally3 Advance Studio 
-
 ## Getting Started
 
 *Coming soon. Builds and instructions will be published here once the first release is ready.*
