@@ -1,8 +1,7 @@
 # GBA-3D-Studio
 
 **A multifunctional, multi-game ROM hacking tool for 3D Game Boy Advance games.**
-
-> ⚠️ **Status: In development.** The first tools are being built now. Nothing here is final yet.
+**OUT NOW**
 
 ## About
 
@@ -19,9 +18,10 @@ The project starts with individual game studios. Once they are ready, they will 
 | 1 | **GTA Advance Studio** | ☀️ Ready - Streamlining Process |
 | 2 | **Driv3r Advance Studio** | ☀️ Ready - Streamlining Process |
 | 3 | **Asterix XXL Advance Studio** | ☀️ Ready - Streamlining Process |
-| 4 | A Studio for every released GBA game by the **Velez & Dubail Dev. Team** | 🚧 In development |
-| 5 | **GBA-3D-Studio**: all studios combined in one tool | 📋 Planned |
-| 6 | Support for additional 3D GBA games | 💡 Future |
+| 4 |  Stuntman Advance Studio | ☀️ Ready - Streamlining Process |
+| 5 |  V-Rally3 Advance Studio | 🚧 In development |
+| 6| **GBA-3D-Studio**: all studios combined in one tool | Released! |
+| 7 | Support for additional 3D GBA games | 💡 Future |
 
 ## Goals
 
