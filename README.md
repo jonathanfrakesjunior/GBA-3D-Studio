@@ -32,11 +32,13 @@ The project starts with individual game studios. Once they are ready, they will 
 
 ## Supported Games
 
-| Game | Studio | Status |
+| Game | Studio | 
 |------|--------|--------|
 | Grand Theft Auto Advance | GTA Advance Studio 
 | Driv3r (GBA) | Driv3r Advance Studio 
 | Asterix & Obelix XXL | AsterixXXL Advance Studio 
+| Stuntman | Stuntman Advance Studio 
+| V-Rally 3| V-Rally3 Advance Studio 
 
 ## Getting Started
 
